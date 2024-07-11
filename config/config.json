@@ -1,0 +1,12 @@
+{
+  "development": {
+    "username": "root",
+    "password": "quickServe",
+    "database": "quick_serve",
+    "host": "127.0.0.1",
+    "dialect": "postgresql",
+    "port": 5433
+  },
+  "test": {},
+  "production": {}
+}
