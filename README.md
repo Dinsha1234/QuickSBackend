@@ -32,7 +32,7 @@ npm install
 npm start
 
 Access the application:
-Open your browser and navigate to http://localhost:3000 for the user interface or http://localhost:3000/admin for the admin dashboard.
+Open your browser and navigate to http://localhost:6005 for accessing the project.
 
 Usage
 Users can browse available time slots and make reservations at their preferred cafes.
