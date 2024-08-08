@@ -22,7 +22,6 @@ PostgreSQL
 Steps
 Clone the repository:
 
-bash
 Copy code
 git clone https://github.com/yourusername/QuickServe.git
 cd QuickServe
